@@ -1,4 +1,4 @@
-import { SlidebarForHome } from "@/components/Slidebar/SlidebarForHome";
+import { SlidebarForHome } from "@/src/app/components/Slidebar/SlidebarForHome";
 
 export default function Home() {
   return (
